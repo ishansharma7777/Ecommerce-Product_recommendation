@@ -2,6 +2,10 @@
 
 An intelligent e-commerce recommendation system that combines collaborative filtering, content-based filtering, and LLM-powered explanations to provide personalized product recommendations.
 
+## 🎥 Demo Video
+
+https://github.com/ishansharma7777/Ecommerce-Product_recommendation/WhatsApp Video 2025-10-15 at 23.39.32.mp4
+
 ## Features
 
 - **Hybrid Recommendation Engine**: Combines collaborative filtering and content-based filtering
