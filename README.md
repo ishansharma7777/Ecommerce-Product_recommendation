@@ -4,7 +4,7 @@ An intelligent e-commerce recommendation system that combines collaborative filt
 
 ## 🎥 Demo Video
 
-<video src="https://github.com/ishansharma7777/Ecommerce-Product_recommendation/releases/download/v1.0/demo.mp4" controls width="700"></video>
+[Watch Demo Video](https://github.com/ishansharma7777/Ecommerce-Product_recommendation/blob/main/WhatsApp%20Video%202025-10-15%20at%2023.39.32.mp4)
 
 ## Features
 
